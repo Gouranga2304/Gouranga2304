@@ -35,10 +35,7 @@
 ### 🛠 Languages & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" alt="skill icons"/>
 </p>
 
 ---
@@ -60,6 +57,14 @@
 
 ---
 
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gouranga2304&theme=react-dark" alt="activity graph"/>
+</p>
+
+---
+
 ### 🐍 Contribution Snake
 
 <p align="center">
@@ -67,6 +72,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gouranga2304&color=blueviolet&style=flat" alt="profile views"/>
